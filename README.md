@@ -1,2 +1,2 @@
-# retro
+# Retro Game Configs
 Retro Game Configs
